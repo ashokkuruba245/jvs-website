@@ -1,4 +1,4 @@
-# JVS — Jyosna's Versatile Stability
+# JVS — Jyoshna's Versatile Stability
 
 Professional Blue & Black responsive website based on the supplied JVS brochure.
 
